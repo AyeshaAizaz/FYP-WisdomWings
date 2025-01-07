@@ -26,9 +26,9 @@ Wisdom Wings is a cutting-edge career counseling application designed to empower
 <li>Allows users to search for mentors or courses stored in the database.</li>
 <li>Returns matching results or displays a “No such item found” message if no matches exist.</li>
 </ul>
-<h3>5. Personalized Journal</h3>
+<h3>5. Settings and Profile Management</h3>
 <ul>
-<li>Enables mentees to take notes during sessions, ensuring they can revisit key insights and guidance provided by their mentors.</li>
+<li>This module allows the User to manage the account settings and personal information; thus, it encompasses options for profile details updating and customization preferences aimed at improving their experience of app use.</li>
 </ul>
 <h3>6. Firebase Integration</h3>
 <ul>
@@ -36,3 +36,14 @@ Wisdom Wings is a cutting-edge career counseling application designed to empower
 <li><b>Broadcast Sessions:</b> Fetches and manages broadcast session details for mentors and mentees.</li>
 <li><b>Real-Time Updates:</b> Ensures seamless data synchronization across the app.</li>
 </ul>
+
+## Technical Highlights
+<h3>Algorithms and Hosting:</h3>
+<li>Hosted on Azure for scalable and reliable performance.</li>
+<li>Utilizes AI algorithms like YouTube Ranking and cosine similarity for precise recommendations.</li>
+<h3>Database:</h3>
+<li>Firebase Realtime Database for storing and retrieving user and session data.</li>
+<li>Maintains a hierarchical structure for efficient querying and management of user, mentor, and course details.</li>
+<h3>Android App Development:</h3>
+<li>Developed in Java for a seamless, user-friendly experience.</li>
+<li>Integrated fragments for modular UI navigation, with the first fragment selected by default.</li>
