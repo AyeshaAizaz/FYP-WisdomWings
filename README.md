@@ -1,4 +1,4 @@
-# Wisdom Wings: AI-Based Career Counseling Application
+![mentorprofile](https://github.com/user-attachments/assets/928e1ff6-5cb6-4277-a0cf-d9595f48e2ab)# Wisdom Wings: AI-Based Career Counseling Application
 ## Overview:
 Wisdom Wings is a cutting-edge career counseling application designed to empower students and professionals by guiding them toward their ideal career paths. The app leverages Artificial Intelligence (AI) to provide personalized recommendations for courses, undergraduate/graduate programs, and mentors based on individual user profiles, preferences, and skill sets. With an integrated mentorship platform, Wisdom Wings bridges the gap between aspiring learners and experienced professionals, fostering meaningful interactions and informed career decisions.
 
@@ -64,84 +64,83 @@ Join sessions, interact with mentors, and take notes to enhance your learning ex
 
 <h3>LOG IN PAGE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\login.jpg" width="500">
+![login](https://github.com/user-attachments/assets/f16cf167-6d66-4205-b92e-85d653a6c7cf)
 
 <h3>SIGN UP PAGE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\signup.jpg" width="500">
+![signup](https://github.com/user-attachments/assets/f605ca63-e713-4c23-970e-673ca11e7b08)
 
 <h3>USER DETAILS FORM</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\userdetails.jpg" width="500">
+![userdetails](https://github.com/user-attachments/assets/bf01a5ca-8389-4999-bbf5-d88d780a885a)
 
 <h3>HOME PAGE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\homepage.jpg" width="500">
+![homepage](https://github.com/user-attachments/assets/73ab3e7c-1a91-44f0-98ca-76fda06233e2)
 
 <h3>MENU PANE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\menupane.jpg" width="500">
+![menupane](https://github.com/user-attachments/assets/400fa54d-b527-4fa6-90ac-96a9ab6018db)
 
 <h3>SETTINGS</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\settings.jpg" width="500">
+![settings](https://github.com/user-attachments/assets/d8fae524-8b96-4321-b06f-110b1c80beab)
 
 <h3>ABOUT US</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\aboutus.jpg" width="500">
+![aboutus](https://github.com/user-attachments/assets/063450c2-c970-4b9a-b141-b1bc25209f85)
 
 <h3>HELP/FAQ</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\help_faq.jpg" width="500">
 ![help_faq](https://github.com/user-attachments/assets/94f89b52-d4be-47e1-9e5e-6947de917a12)
 
 <h3>TERMS AND PRIVACY</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\termsandpriv.jpg" width="500">
+![termsandpriv](https://github.com/user-attachments/assets/59f33de9-65e8-4037-96bc-36e84ef1834c)
 
 <h3>NOTIFICATIONS</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\notifications.jpg" width="500">
+![notifications](https://github.com/user-attachments/assets/b7892cde-093e-4d8f-81ce-198e50f29e66)
 
 <h3>COURSE DETAILS</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\coursedetails.jpg" width="500">
+![coursedetails](https://github.com/user-attachments/assets/dd832c57-9fb5-46c6-bdf2-b91634139989)
 
 <h3>SEARCH</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\searchpage.jpg" width="500">
+![searchpage](https://github.com/user-attachments/assets/cb2131db-3b86-4ed9-8c35-2c5c786bb378)
 
 <h3>USER PROFILE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\userprofile.jpg" width="500">
+![userprofile](https://github.com/user-attachments/assets/c03cf7fe-5ea5-4695-8948-12a09d94792b)
 
 <h3>CHANGE DISPLAY PICTURE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\changedisplaypic.jpg" width="500">
+![changedisplaypic](https://github.com/user-attachments/assets/e311b52b-cef6-44d2-a092-6c46e061d475)
 
 <h3>USER VIEWING MENTOR PROFILE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\userviewingmento.jpg" width="500">
+![userviewingmento](https://github.com/user-attachments/assets/d6c91a5c-b08c-4892-9c5d-9b037d336b73)
 
 <h3>USER REGISTERING 1 ON 1 SESSION</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\registering1on1session.jpg" width="500">
+![registering1on1session](https://github.com/user-attachments/assets/f25fe04a-53ca-44e9-8b52-f05fde850b46)
 
 <h3>LOG OUT</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\logoutpage.jpg" width="500">
+![logoutpage](https://github.com/user-attachments/assets/d4bd400d-450d-43ce-af2f-276dc186516b)
 
 <h3>MENTOR HOME PAGE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\mentorhomepage.jpg" width="500">
+![mentorhomepage](https://github.com/user-attachments/assets/10402084-0be7-49a0-be26-2aa7e2893574)
 
 <h3>CREATE BROADCAST SESSIONS</h3>
 
-<img src="![createbroadcastsession](https://github.com/user-attachments/assets/99b336c7-6586-4017-bf8b-25ea85f08e0a)" width="500">
+![createbroadcastsession](https://github.com/user-attachments/assets/079f3678-b41f-4bb8-a33a-5acd3dbfb12e)
 
 <h3>MENTOR PROFILE</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\mentorprofile.jpg" width="500">
+![mentorprofile](https://github.com/user-attachments/assets/3991dfde-f81f-473f-a104-ab13ce704185)
 
 
 ## Future Vision
