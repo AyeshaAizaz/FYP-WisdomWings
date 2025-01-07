@@ -63,65 +63,85 @@ Join sessions, interact with mentors, and take notes to enhance your learning ex
 ## Screenshots and Visuals
 
 <h3>LOG IN PAGE</h3>
-![login](https://github.com/user-attachments/assets/73fc655c-196e-49a7-959e-9c85df22bb8e)
+
+<img src="D:\\FYP FINAL\\App Images\\login.jpg" width="500">
 
 <h3>SIGN UP PAGE</h3>
-![signup](https://github.com/user-attachments/assets/927ddc90-72d0-4d9a-8c8e-1d82db34654d)
+
+<img src="D:\\FYP FINAL\\App Images\\signup.jpg" width="500">
 
 <h3>USER DETAILS FORM</h3>
-![userdetails](https://github.com/user-attachments/assets/d416bc90-d3f4-480e-930e-6203b23a9cf4)
+
+<img src="D:\\FYP FINAL\\App Images\\userdetails.jpg" width="500">
 
 <h3>HOME PAGE</h3>
-![homepage](https://github.com/user-attachments/assets/090404f0-d866-4e6a-85a8-5d9dda088848)
+
+<img src="D:\\FYP FINAL\\App Images\\homepage.jpg" width="500">
 
 <h3>MENU PANE</h3>
-![menupane](https://github.com/user-attachments/assets/712331fa-27cb-4702-91cd-1179d09f1e2c)
+
+<img src="D:\\FYP FINAL\\App Images\\menupane.jpg" width="500">
 
 <h3>SETTINGS</h3>
-![settings](https://github.com/user-attachments/assets/7d8dd32e-b617-4869-9436-cccb76a8edd1)
+
+<img src="D:\\FYP FINAL\\App Images\\settings.jpg" width="500">
 
 <h3>ABOUT US</h3>
-![aboutus](https://github.com/user-attachments/assets/814b16d5-7893-40c8-9a7c-026821edb811)
+
+<img src="D:\\FYP FINAL\\App Images\\aboutus.jpg" width="500">
 
 <h3>HELP/FAQ</h3>
+
+<img src="D:\\FYP FINAL\\App Images\\help_faq.jpg" width="500">
 ![help_faq](https://github.com/user-attachments/assets/94f89b52-d4be-47e1-9e5e-6947de917a12)
 
 <h3>TERMS AND PRIVACY</h3>
-![termsandpriv](https://github.com/user-attachments/assets/fe2723b4-7fa5-4af5-b429-4dbec9b4f598)
+
+<img src="D:\\FYP FINAL\\App Images\\termsandpriv.jpg" width="500">
 
 <h3>NOTIFICATIONS</h3>
-![notifications](https://github.com/user-attachments/assets/ea12a6f0-198d-413a-b97a-34009b5e6520)
+
+<img src="D:\\FYP FINAL\\App Images\\notifications.jpg" width="500">
 
 <h3>COURSE DETAILS</h3>
-![coursedetails](https://github.com/user-attachments/assets/e7cf68c8-1036-403e-8bf4-640edeb02ee1)
+
+<img src="D:\\FYP FINAL\\App Images\\coursedetails.jpg" width="500">
 
 <h3>SEARCH</h3>
-![searchpage](https://github.com/user-attachments/assets/183ffe24-fa07-4ee6-b4d6-3ee43d72d313)
+
+<img src="D:\\FYP FINAL\\App Images\\searchpage.jpg" width="500">
 
 <h3>USER PROFILE</h3>
-![userprofile](https://github.com/user-attachments/assets/dfde1c4b-e562-439e-b919-ead2fe3e3aa1)
+
+<img src="D:\\FYP FINAL\\App Images\\userprofile.jpg" width="500">
 
 <h3>CHANGE DISPLAY PICTURE</h3>
-![changedisplaypic](https://github.com/user-attachments/assets/5b69cbb1-b3ab-41db-ac9d-398cc012ef88)
+
+<img src="D:\\FYP FINAL\\App Images\\changedisplaypic.jpg" width="500">
 
 <h3>USER VIEWING MENTOR PROFILE</h3>
-![userviewingmento](https://github.com/user-attachments/assets/f67b77a5-ad87-499f-8d68-b25f13e2ca03)
+
+<img src="D:\\FYP FINAL\\App Images\\userviewingmento.jpg" width="500">
 
 <h3>USER REGISTERING 1 ON 1 SESSION</h3>
-![registering1on1session](https://github.com/user-attachments/assets/f0f9dcdb-80e9-45c4-8f16-bc3e269e8fbe)
+
+<img src="D:\\FYP FINAL\\App Images\\registering1on1session.jpg" width="500">
 
 <h3>LOG OUT</h3>
-![logoutpage](https://github.com/user-attachments/assets/ab0666fd-4d31-4e82-befe-29572625cb7c)
+
+<img src="D:\\FYP FINAL\\App Images\\logoutpage.jpg" width="500">
 
 <h3>MENTOR HOME PAGE</h3>
-![mentorhomepage](https://github.com/user-attachments/assets/9ee98671-0e8c-4165-b3c5-014ef720fc77)
+
+<img src="D:\\FYP FINAL\\App Images\\mentorhomepage.jpg" width="500">
 
 <h3>CREATE BROADCAST SESSIONS</h3>
-![createbroadcastsession](https://github.com/user-attachments/assets/a4c4bcf8-6fd5-454c-88a0-a43af8df0ef6)
+
+<img src="D:\\FYP FINAL\\App Images\\createbroadcastsession.jpg" width="500">
 
 <h3>MENTOR PROFILE</h3>
 
-![mentorprofile](https://github.com/user-attachments/assets/96e73f9d-a249-431f-bbae-f3011a0a2e1d)
+<img src="D:\\FYP FINAL\\App Images\\mentorprofile.jpg" width="500">
 
 
 ## Future Vision
