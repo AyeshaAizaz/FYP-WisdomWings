@@ -137,7 +137,7 @@ Join sessions, interact with mentors, and take notes to enhance your learning ex
 
 <h3>CREATE BROADCAST SESSIONS</h3>
 
-<img src="D:\\FYP FINAL\\App Images\\createbroadcastsession.jpg" width="500">
+<img src="![createbroadcastsession](https://github.com/user-attachments/assets/99b336c7-6586-4017-bf8b-25ea85f08e0a)" width="500">
 
 <h3>MENTOR PROFILE</h3>
 
