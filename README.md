@@ -5,21 +5,21 @@ Wisdom Wings is a cutting-edge career counseling application designed to empower
 ## Key Features
 <h3>1. AI-Powered Recommendations</h3>
 <ul>
-<li>Course Recommendations: Using web-scraped course data from platforms like Coursera, Wisdom Wings recommends the top five courses that align with user interests, skills, and career aspirations.</li>
-<li>Program Recommendations: Employing advanced algorithms like the YouTube Ranking Algorithm and cosine similarity, the app suggests five undergraduate/graduate programs tailored to each user.</li>
-<li>Mentor Recommendations: Matches users with five mentors based on skills, location, online status, and mentor reviews to ensure compatibility and effective guidance.</li>
+<li><b>Course Recommendations:</b> Using web-scraped course data from platforms like Coursera, Wisdom Wings recommends the top five courses that align with user interests, skills, and career aspirations.</li>
+<li><b>Program Recommendations:</b> Employing advanced algorithms like the YouTube Ranking Algorithm and cosine similarity, the app suggests five undergraduate/graduate programs tailored to each user.</li>
+<li><b>Mentor Recommendations:</b> Matches users with five mentors based on skills, location, online status, and mentor reviews to ensure compatibility and effective guidance.</li>
 </ul>
 <h3>2. Mentorship Platform</h3>
 <ul>
-<li>Mentor-Mentee Matching: Facilitates connections between mentees and mentors based on mutual interests, skills, and goals.</li>
-<li>Online Status Tracking: Displays real-time online/offline status of mentors, making it easy for mentees to interact at convenient times.</li>
-<li>Session Scheduling: Users can schedule one-on-one sessions or join broadcast sessions. Time slots are dynamically generated, considering mentor and mentee availability.</li>
+<li><b>Mentor-Mentee Matching:</b> Facilitates connections between mentees and mentors based on mutual interests, skills, and goals.</li>
+<li><b>Online Status Tracking:</b> Displays real-time online/offline status of mentors, making it easy for mentees to interact at convenient times.</li>
+<li><b>Session Scheduling:</b> Users can schedule one-on-one sessions or join broadcast sessions. Time slots are dynamically generated, considering mentor and mentee availability.</li>
 </ul>
 <h3>3. Dynamic Calendar Integration</h3>
 <ul>
-<li>Highlight Scheduled Sessions: Displays upcoming broadcast sessions and mentor availability on a calendar.</li>
-<li>Time Slot Generation: Automatically generates available time slots for scheduling, ensuring no conflicts with pre-existing sessions.</li>
-<li>Current Date Filter: Only future dates are shown, restricting users from selecting past dates.</li>
+<li><b>Highlight Scheduled Sessions:</b> Displays upcoming broadcast sessions and mentor availability on a calendar.</li>
+<li><b>Time Slot Generation:</b> Automatically generates available time slots for scheduling, ensuring no conflicts with pre-existing sessions.</li>
+<li><b>Current Date Filter:</b> Only future dates are shown, restricting users from selecting past dates.</li>
 </ul>
 <h3>4. Search Functionality</h3>
 <ul>
@@ -32,7 +32,7 @@ Wisdom Wings is a cutting-edge career counseling application designed to empower
 </ul>
 <h3>6. Firebase Integration</h3>
 <ul>
-<li>User Profiles: Stores comprehensive user details, including name, gender, interests, skills, qualifications, certifications, job status, and more.</li>
-<li>Broadcast Sessions: Fetches and manages broadcast session details for mentors and mentees.</li>
-<li>Real-Time Updates: Ensures seamless data synchronization across the app.</li>
+<li><b>User Profiles:</b> Stores comprehensive user details, including name, gender, interests, skills, qualifications, certifications, job status, and more.</li>
+<li><b>Broadcast Sessions:</b> Fetches and manages broadcast session details for mentors and mentees.</li>
+<li><b>Real-Time Updates:</b> Ensures seamless data synchronization across the app.</li>
 </ul>
