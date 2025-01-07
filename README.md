@@ -1,1 +1,3 @@
-# FYP-WisdomWings
+# Wisdom Wings: AI-Based Career Counseling Application
+## Overview:
+Wisdom Wings is a cutting-edge career counseling application designed to empower students and professionals by guiding them toward their ideal career paths. The app leverages Artificial Intelligence (AI) to provide personalized recommendations for courses, undergraduate/graduate programs, and mentors based on individual user profiles, preferences, and skill sets. With an integrated mentorship platform, Wisdom Wings bridges the gap between aspiring learners and experienced professionals, fostering meaningful interactions and informed career decisions.
