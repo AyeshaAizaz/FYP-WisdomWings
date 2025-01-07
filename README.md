@@ -74,7 +74,7 @@ Join sessions, interact with mentors, and take notes to enhance your learning ex
 <h3>HOME PAGE</h3>
 ![homepage](https://github.com/user-attachments/assets/090404f0-d866-4e6a-85a8-5d9dda088848)
 
-<h3MENU PANE</h3>
+<h3>MENU PANE</h3>
 ![menupane](https://github.com/user-attachments/assets/712331fa-27cb-4702-91cd-1179d09f1e2c)
 
 <h3>SETTINGS</h3>
